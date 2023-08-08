@@ -22,8 +22,9 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {{ staffer }}
 {% endfor %}
 
+[Schedule an appointment](#){: .btn .btn-outline }
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
+<!-- {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
 {% if num_teaching_assistants != 0 %}
 ## Teaching Assistants
@@ -31,4 +32,4 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {% for staffer in teaching_assistants %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
+{% endif %} -->
