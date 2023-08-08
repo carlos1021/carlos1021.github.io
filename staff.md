@@ -9,8 +9,8 @@ description: A listing of all the course staff members.
 Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
 
 
-{% assign ed_directors = site.staffers | where: 'role', 'ED Director' %}
-{% assign df_directors = site.staffers | where: 'role', 'DF Director' %}
+{% assign ed_directors = site.staffers | where: 'role', 'Education Director' %}
+{% assign df_directors = site.staffers | where: 'role', 'Data Foundations Director' %}
 
 ### Directors
 
