@@ -1,8 +1,8 @@
 ---
 name: Nathan Shum
-role: DF Director
+role: Director
 meta:
-  DF Director:
+  Data Foundations Director:
 email: example
 website: 
 photo: kevin.jpg

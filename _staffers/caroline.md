@@ -2,7 +2,7 @@
 name: Caroline Wu
 role: Director
 meta:
-  ED Director: 
+  Education Director: 
 email: example
 website: 
 photo: kevin.jpg
