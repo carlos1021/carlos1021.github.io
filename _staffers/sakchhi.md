@@ -1,8 +1,8 @@
 ---
-name: Kevin Lin
-role: Instructor
-email: me@example.com
-website: https://kevinl.info
+name: Sakchhi Thapa
+role: DF Director
+email: 
+website: 
 photo: kevin.jpg
 meta:
   Office Hours: Somewhere on the internet
