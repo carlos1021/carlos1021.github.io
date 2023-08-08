@@ -8,19 +8,34 @@ description: A listing of all the course staff members.
 
 Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
 
+{% assign directors = site.staffers | where_exp: "staffer", "staffer.role == 'ED Director' or staffer.role == 'DF Director'" %}
+{% assign num_directors = directors | size %}
+{% if num_directors != 0 %}
+## Director
 
-{% assign ed_directors = site.staffers | where: 'role', 'ED Director' %}
-{% assign df_directors = site.staffers | where: 'role', 'DF Director' %}
-
-### ED Directors
-{% for staffer in ed_directors %}
-{{ staffer }}
+{% for staffer in directors %}
+{{ staffer.name }}
+{% if staffer.role %}
+### {{ staffer.role }}
+{% endif %}
+{% if staffer.email %}
+Email: {{ staffer.email }}
+{% endif %}
+{% if staffer.website %}
+Website: {{ staffer.website }}
+{% endif %}
+{% if staffer.photo %}
+Photo: {{ staffer.photo }}
+{% endif %}
+{% if staffer.meta %}
+{% for key, value in staffer.meta %}
+{{ key }}: {{ value }}
 {% endfor %}
-
-### DF Directors
-{% for staffer in df_directors %}
-{{ staffer }}
+{% endif %}
+[Schedule an appointment](#){: .btn .btn-outline }
 {% endfor %}
+{% endif %}
+
 
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
