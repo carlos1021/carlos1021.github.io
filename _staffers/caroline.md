@@ -1,8 +1,7 @@
 ---
 name: Caroline Wu
-role: Director
-meta:
-  Education Director: 
+role: Education Director
+pronouns: she/her
 email: example
 website: 
 photo: kevin.jpg
