@@ -1,11 +1,10 @@
 ---
 name: Caroline Wu
 role: ED Director
-email:
+email: example
 website: 
 photo: kevin.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  ED Director: 
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }

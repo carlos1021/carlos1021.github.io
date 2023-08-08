@@ -1,11 +1,10 @@
 ---
 name: Nathan Shum
 role: DF Director
-email: 
+email: example
 website: 
 photo: kevin.jpg
 meta:
-  Office Hours: Somewhere on the internet
+  DF Director:
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
