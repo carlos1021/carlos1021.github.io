@@ -1,10 +1,10 @@
 ---
 name: Caroline Wu
-role: ED Director
+role: Director
+meta:
+  ED Director: 
 email: example
 website: 
 photo: kevin.jpg
-meta:
-  ED Director: 
 ---
 

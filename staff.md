@@ -9,18 +9,11 @@ description: A listing of all the course staff members.
 Staff information is stored in the `_staffers` directory and rendered according to the layout file, `_layouts/staffer.html`.
 
 
-{% assign ed_directors = site.staffers | where: 'role', 'ED Director' %}
-{% assign df_directors = site.staffers | where: 'role', 'DF Director' %}
+{% assign directors = site.staffers | where: 'role', 'Director' %}
 
 ### Directors
 
-
-{% for staffer in ed_directors %}
-{{ staffer }}
-{% endfor %}
-
-
-{% for staffer in df_directors %}
+{% for staffer in directors %}
 {{ staffer }}
 {% endfor %}
 
