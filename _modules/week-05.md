@@ -1,11 +1,11 @@
 ---
-title: Week 2 - Project Set-up
+title: Week 5 - Model Analysis II
 ---
 
-~Wed Sep 20
-: Introduction to Python and Linear Algebra
+~Wed Oct 11
+: Example name, covers feature selection, pca, etc.
   : [Notebook](#), [Solutions](#)
 
-~Thurs Sep 21
+~Thurs Oct 12
 : **Homework**{: .label .label-blue }Example name
   : [Solutions](#)

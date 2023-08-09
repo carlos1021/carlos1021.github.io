@@ -1,11 +1,11 @@
 ---
-title: Week 2 - Project Set-up
+title: Week 4 - Model Analysis I
 ---
 
-~Wed Sep 20
-: Introduction to Python and Linear Algebra
+~Wed Oct 4
+: Example name, covers bias, variance, regularization
   : [Notebook](#), [Solutions](#)
 
-~Thurs Sep 21
+~Thurs Oct 5
 : **Homework**{: .label .label-blue }Example name
   : [Solutions](#)

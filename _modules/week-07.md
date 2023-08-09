@@ -1,11 +1,11 @@
 ---
-title: Week 2 - Project Set-up
+title: Week 7 - Statistical Inference
 ---
 
-~Wed Sep 20
-: Introduction to Python and Linear Algebra
+~Wed Oct 25
+: Example name
   : [Notebook](#), [Solutions](#)
 
-~Thurs Sep 21
+~Thurs Oct 26
 : **Homework**{: .label .label-blue }Example name
   : [Solutions](#)

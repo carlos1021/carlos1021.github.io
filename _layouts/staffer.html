@@ -10,9 +10,6 @@
       {{ page.name }}
       {%- endif -%}
     </h3>
-    {%- if page.role -%}
-    <h4 class="staffer-role">{{ page.role }}</h4>
-    {%- endif -%}
     {%- if page.pronouns -%}
     <p class="staffer-pronouns">{{ page.pronouns }}</p>
     {%- endif -%}
@@ -27,6 +24,6 @@
       {%- endfor -%}
     </dl>
     {%- endif -%}
+    {{ content }}
   </div>
 </div>
-

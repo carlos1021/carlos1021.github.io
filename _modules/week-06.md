@@ -1,11 +1,11 @@
 ---
-title: Week 2 - Project Set-up
+title: Week 6 - Modeling II
 ---
 
-~Wed Sep 20
-: Introduction to Python and Linear Algebra
+~Wed Oct 18
+: Example name, decision trees and forests
   : [Notebook](#), [Solutions](#)
 
-~Thurs Sep 21
+~Thurs Oct 19
 : **Homework**{: .label .label-blue }Example name
   : [Solutions](#)

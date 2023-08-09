@@ -1,11 +1,11 @@
 ---
-title: Week 2 - Project Set-up
+title: Week 3 - Modeling I
 ---
 
-~Wed Sep 20
-: Introduction to Python and Linear Algebra
+~Wed Sep 27
+: Example name, covers SLR
   : [Notebook](#), [Solutions](#)
 
-~Thurs Sep 21
+~Thurs Sep 8
 : **Homework**{: .label .label-blue }Example name
   : [Solutions](#)
