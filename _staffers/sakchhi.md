@@ -2,7 +2,7 @@
 name: Sakchhi Thapa
 role: Data Foundations Director
 pronouns: she/her
-email: example
+email: sakchhithapa@berkeley.edu
 website: 
 photo: sakchhi.png
 ---

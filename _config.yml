@@ -21,6 +21,9 @@ author: Kevin Lin
 url: 'https://carlos1021.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
+
+logo: "/assets/images/fa23_logo.png"
+
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.4
 color_scheme: light

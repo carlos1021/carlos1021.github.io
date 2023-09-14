@@ -2,7 +2,7 @@
 name: Nathan Shum
 role: Data Foundations Director
 pronouns: he/him
-email: example
+email: nathan.shum@berkeley.edu
 website: 
 photo: nathan.png
 ---
