@@ -2,13 +2,12 @@
 title: Week 1- Introduction to DF
 ---
 
-~Wed Sep 8
+Wed Sep 13
 : Technical Setup
-  : [Notebook](#), [Solutions](#)
+  : [Notebook](/assets/images/Lecture1.ipynb.zip)
 
-~Thurs Sep 9
-: **Homework**{: .label .label-blue }The Basics
-  : [Solutions](#)
+Thurs Sep 14
+: **Homework**{: .label .label-blue }Introducion
 
 
 
