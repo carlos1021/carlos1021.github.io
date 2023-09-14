@@ -18,16 +18,47 @@ description: >-
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+Welcome to [SAAS](saas.berkeley.edu) and Data Foundations! Data science is redefining how people and organizations solve challenging problems and understand their world; throughout the fall semester we'll be aiming to provide an experience that will define your understanding of this broad domain. We will build a comprehensive overview of the data science life cycle, with some other topics including Python, Pandas, EDA, Linear Regression, Paramateric vs Nonparametric Classification, Performance Metrics, Advanced Modeling, and more. We aim to prepare and engage you in the Data Mentorship and Data Consulting committees, and we hope you find this semester transformative in your understanding of data science. 
+
+### Goals
+Offer the support support and tools necessary to address real-world problems
+
+Enable students to think critically as data scientists
+
+Provide the necessary tools and techniques for the Data Mentorship and Data Consulting Committee
 
 ## Lecture
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
-
-## Resources
-
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+Lectures will be held in-person Wednesdays from 7-9 pm. Members will be presented through an interactive case study that will engage you in the class in various different ways. Note that the schedule is subject to change. Attending these lectures are mandatory. 
 
 ## Assignments
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+The main deliverables will be homework assignments and the final project. Homeworks will be due the following Wednesday which lecture was delivered, and the final project will be due the last week of lectures, November 29th.
+
+### Grading Criteria
+
+In short, there is none. Although we will not be giving you a final grade for your work in Data Foundations, we will be giving constructive feedback for your work so that you may reference in the future. Also note that although we're not explicitly administering grades, we expect continuous engagement with the material and completion of requisite assignments throughout the semester.
+
+## Resources
+
+### Device Lending Options
+Students can access device lending options through the Student Technology Equity Program [STEP program](https://studenttech.berkeley.edu/devicelending).
+
+### Community Standards 
+Beyond the quips that many of us make unintentionally are a host of behaviors that we do not tolerate. We must demonstrate appropriate respect, consideration, and compassion for others, inside and outside of the classroom. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. As a member of SAAS and a student at Berkeley, we expect respect outlined by Berkeley's [Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://conduct.berkeley.edu/code-of-conduct/)  
+
+### Extenuating Circumstances
+We recognize that our students come from varied backgrounds and have widely-varying experiences. We will be organizing this system on a case-by-case system, so if you encounter extenuating circumstances at any time in this semster, please do not hesitate to let the a person in leadership know (Nathan, Sakchhi, Carlos, anyone in exec). The sooner that we are made aware, the more options we have available to use to ensure your success in the committee.
+
+### Other Resources
+
+[SAAS Spring 2023 Data Science Repository](https://www.notion.so/SAAS-Data-Science-Repository-32fb3a865c1d4c56bd45105cfc4e102c?pvs=4)
+
+- [Glossary Article System](https://www.notion.so/Glossary-173b454542e4455983777bd2fa564289?pvs=4): a couple of written papers ED members wrote last semester
+- [Data Science Concept Map](https://www.notion.so/Robert-Notes-7a31e549867c4bd8acfccd08a099c3ca?pvs=4)
+- [Code Compendium](https://www.notion.so/Code-Compendium-619d1885a3d84ca2bfd1c34d43ab5f51?pvs=4)
+- [Pandas API Reference](https://pandas.pydata.org/pandas-docs/stable/reference/index.html): all things Pandas
+- [The Python Tutorial](https://docs.python.org/3.5/tutorial/): all things Python
+- [3Blue1Brown](https://www.3blue1brown.com/topics/linear-algebra): all things Linear Algebra
+- PM Carlos if you'd like to add additional resources :D
+
