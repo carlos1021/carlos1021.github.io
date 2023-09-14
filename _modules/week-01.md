@@ -7,7 +7,7 @@ Wed Sep 13
   : [Notebook](/assets/images/Lecture1.ipynb.zip)
 
 Thurs Sep 14
-: **Homework**{: .label .label-blue }Introducion
+: **Homework**{: .label .label-blue }Introduction
 
 
 
