@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Week 2 - Project Set-up
 ---
 
@@ -8,4 +8,4 @@ title: Week 2 - Project Set-up
 
 ~Thurs Sep 21
 : **Homework**{: .label .label-blue }Example name
-  : [Solutions](#)
+  : [Solutions](#) -->

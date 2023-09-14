@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Week 8 - Special Topics
 ---
 
@@ -8,4 +8,4 @@ title: Week 8 - Special Topics
 
 ~Thurs Nov 2
 : **Homework**{: .label .label-blue }Example name, SQL
-  : [Solutions](#)
+  : [Solutions](#) -->

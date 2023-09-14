@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Week 7 - Statistical Inference
 ---
 
@@ -8,4 +8,4 @@ title: Week 7 - Statistical Inference
 
 ~Thurs Oct 26
 : **Homework**{: .label .label-blue }Example name
-  : [Solutions](#)
+  : [Solutions](#) -->

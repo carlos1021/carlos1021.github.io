@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Week 3 - Modeling I
 ---
 
@@ -8,4 +8,4 @@ title: Week 3 - Modeling I
 
 ~Thurs Sep 8
 : **Homework**{: .label .label-blue }Example name
-  : [Solutions](#)
+  : [Solutions](#) -->

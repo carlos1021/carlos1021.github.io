@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Directors
-description: A listing of all the course staff members.
+description: A listing of course staff members.
 ---
 
 # Staff
@@ -11,12 +11,11 @@ description: A listing of all the course staff members.
 {% assign ed_directors = site.staffers | where: 'role', 'Education Director' %}
 {% assign df_directors = site.staffers | where: 'role', 'Data Foundations Director' %}
 
-### Education Directors
+### Directors
 {% for staffer in ed_directors %}
 {{ staffer }}
 {% endfor %}
 
-### Data Foundations Directors
 {% for staffer in df_directors %}
 {{ staffer }}
 {% endfor %}
