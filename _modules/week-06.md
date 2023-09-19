@@ -1,11 +1,11 @@
-<!-- ---
-title: Week 6 - Modeling II
+---
+title: Week 6 - Multiple Linear Regression
 ---
 
-~Wed Oct 18
-: Example name, decision trees and forests
-  : [Notebook](#), [Solutions](#)
+Wed Oct 18
+: Case Study #3
+  : <!--[Notebook](#), [Solutions](#) -->
 
-~Thurs Oct 19
-: **Homework**{: .label .label-blue }Example name
-  : [Solutions](#) -->
+Thurs Oct 19
+<!-- : **Homework**{: .label .label-blue }Example name -->
+  <!-- : [Solutions](#) -->

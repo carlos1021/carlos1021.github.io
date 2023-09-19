@@ -1,13 +1,13 @@
 ---
-title: Week 1- Introduction to DF
+title: Week 1 - Introduction to DF
 ---
 
 Wed Sep 13
-: Technical Setup
+: Technical Setup; Introduction to Python
   : [Notebook](/assets/images/Lecture1.ipynb.zip)
 
 Thurs Sep 14
-: **Homework**{: .label .label-blue }Introduction
+: **Homework 1**{: .label .label-blue } (OPTIONAL) Python Review
 
 
 

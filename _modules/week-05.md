@@ -1,11 +1,11 @@
-<!-- ---
-title: Week 5 - Model Analysis II
+---
+title: Week 5 - Advanced Modeling II
 ---
 
-~Wed Oct 11
-: Example name, covers feature selection, pca, etc.
-  : [Notebook](#), [Solutions](#)
+Wed Oct 11
+: Applications of Logistic Regression
+   : <!-- [Notebook](#), [Solutions](#) -->
 
-~Thurs Oct 12
-: **Homework**{: .label .label-blue }Example name
-  : [Solutions](#) -->
+Thurs Oct 12
+<!-- : **Homework**{: .label .label-blue }Example name -->
+  <!-- : [Solutions](#) -->

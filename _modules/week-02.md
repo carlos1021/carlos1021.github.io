@@ -1,11 +1,11 @@
-<!-- ---
+---
 title: Week 2 - Project Set-up
 ---
 
-~Wed Sep 20
-: Introduction to Python and Linear Algebra
-  : [Notebook](#), [Solutions](#)
+Wed Sep 20
+: Pandas and EDA; Case Study #1
+  : <!-- [Notebook](#)[Solutions](#) --> 
 
-~Thurs Sep 21
-: **Homework**{: .label .label-blue }Example name
-  : [Solutions](#) -->
+Thurs Sep 21
+: **Homework 2**{: .label .label-blue }Pandas and EDA
+  <!-- : [Solutions](#) -->

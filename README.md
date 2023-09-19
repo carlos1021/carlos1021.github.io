@@ -8,19 +8,24 @@ seo:
   name: Data Foundation
 ---
 
+
 # Data Foundations
 
-- [announcements](announcements.md),
+
+The landing page for SAAS Data Foundations Fall 2023
+
+
+<!-- - [announcements](announcements.md),
 - a [course calendar](calendar.md),
 - a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+- and a weekly [schedule](schedule.md). -->
 
 
-
+<!-- 
 ---
 layout: page
 title: Calendar
-description: Listing of course modules and topics.
+description: Listing of course modules and topics. -->
 ---
 
 # Calendar
