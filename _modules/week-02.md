@@ -4,7 +4,7 @@ title: Week 2 - Project Set-up
 
 Wed Sep 20
 : Pandas and EDA; Case Study #1
-  : <!-- [Notebook](#)[Solutions](#) --> 
+  : [Notebook](/assets/images/Lecture2.ipynb.zip)
 
 Thurs Sep 21
 : **Homework 2**{: .label .label-blue }Pandas and EDA

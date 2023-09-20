@@ -33,7 +33,7 @@ Lectures will be held in-person Wednesdays from 7-9 pm. Members will be presente
 
 ## Assignments
 
-The main deliverables will be homework assignments and the final project. Homeworks will be due the following Wednesday which lecture was delivered, and the final project will be due the last week of lectures, November 29th.
+The main deliverables will be homework assignments and the final project. Homeworks will be due the following Wednesday which lecture was delivered, and the final project will be due the last week of lecture, November 15th.
 
 ### Grading Criteria
 

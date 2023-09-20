@@ -3,9 +3,8 @@ title: Week 9 - Closing
 ---
 
 Wed Nov 15
-: Closing
+: Project Presenations!
    : <!--[Notebook](#), [Solutions](#) -->
 
-Thurs Nov 16
 <!-- : **Homework**{: .label .label-blue }Example name, SQL -->
   <!-- : [Solutions](#) -->

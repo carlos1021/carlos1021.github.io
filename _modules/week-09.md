@@ -1,5 +1,5 @@
 ---
-title: Week 9 - Project Presentations
+title: Week 9 - Final Review
 ---
 
 Wed Nov 8

@@ -7,7 +7,7 @@ Wed Sep 13
   : [Notebook](/assets/images/Lecture1.ipynb.zip)
 
 Thurs Sep 14
-: **Homework 1**{: .label .label-blue } (OPTIONAL) Python Review
+: **Homework 1**{: .label .label-blue } [(OPTIONAL) Python Review](/assets/images/Homework1.ipynb.zip)
 
 
 
