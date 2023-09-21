@@ -7,5 +7,5 @@ Wed Sep 20
   : [Notebook](/assets/images/Lecture2.ipynb.zip)
 
 Thurs Sep 21
-: **Homework 2**{: .label .label-blue }Pandas and EDA
+: **Homework 2**{: .label .label-blue }[Numpy and Pandas](/assets/images/Homework2.ipynb.zip)
   <!-- : [Solutions](#) -->
