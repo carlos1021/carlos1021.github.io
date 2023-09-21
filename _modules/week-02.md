@@ -8,4 +8,5 @@ Wed Sep 20
 
 Thurs Sep 21
 : **Homework 2**{: .label .label-blue }[Numpy and Pandas](/assets/images/Homework2.ipynb.zip)
+  : **Due Wed 9/27 11:59**
   <!-- : [Solutions](#) -->
