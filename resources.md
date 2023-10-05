@@ -27,10 +27,10 @@ description: >-
 
 #### Articles of general interest:
 
-- [No, Machine Learning is not just glorified Statistics](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3)
+- [No, Machine Learning is not just glorified Statistics](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3):
   Everything is useful, but you don’t need to know the theory of everything to be effective in the real world.
 
-- [Why You Shouldn't be a Data Science Generalist](https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69ea37cdd2c)
+- [Why You Shouldn't be a Data Science Generalist](https://towardsdatascience.com/why-you-shouldnt-be-a-data-science-generalist-f69ea37cdd2c):
   A brief introduction to different sub-career paths or specialties that “data scientists” take. It’s a jungle out there! This doesn’t even include domain-specific data scientists, which is a world unto itself.
 
 - [The Role of Research in Data Science Education](https://hdsr.mitpress.mit.edu/pub/sa5htffr/release/1)
