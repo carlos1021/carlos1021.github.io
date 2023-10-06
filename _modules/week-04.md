@@ -8,4 +8,4 @@ Wed Oct 4
 
 Thurs Oct 5
 : **Homework**{: .label .label-blue }[Regularization](assets/images/Homework4.ipynb.zip)
-  : **Due Fri 10/6 11:59**  <!-- : [Solutions](#) -->
+  : **Due Fri 10/13 11:59**  <!-- : [Solutions](#) -->
