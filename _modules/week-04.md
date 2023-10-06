@@ -7,5 +7,5 @@ Wed Oct 4
    : [Notebook](/assets/images/Lecture4.ipynb.zip)
 
 Thurs Oct 5
-<!-- : **Homework**{: .label .label-blue }Example name -->
-  <!-- : [Solutions](#) -->
+: **Homework**{: .label .label-blue }[Regularization](assets/images/Homework4.ipynb.zip)
+  : **Due Fri 10/6 11:59**  <!-- : [Solutions](#) -->
