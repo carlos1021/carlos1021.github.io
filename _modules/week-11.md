@@ -1,9 +1,9 @@
 ---
-title: Week 10 - Closing
+title: Week 11 - Project Presentations!
 ---
 
-Wed Nov 15
-: Final Assessment
+Wed Nov 29
+: surprise here
    : <!--[Notebook](#), [Solutions](#) -->
 
 <!-- : **Homework**{: .label .label-blue }Example name, SQL -->

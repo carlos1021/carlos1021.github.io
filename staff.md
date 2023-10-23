@@ -20,6 +20,17 @@ description: A listing of course staff members.
 {{ staffer }}
 {% endfor %}
 
+### Education 
+
+Aidan Curran
+
+Daisy Wang
+
+Drew Colmenar
+
+Joseph Jin
+
+Vibhav Athreya
 
 
 <!-- {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
