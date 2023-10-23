@@ -7,6 +7,6 @@ Wed Sep 27
   :  [Notebook](/assets/images/Lecture3.ipynb.zip) <!--[Solutions](#)-->
 
 Thurs Sep 28
-: **Homework**{: .label .label-blue }[Cleaning and Exploring Data with pandas; SLR](assets/images/Homework3.ipynb.zip)
+: **Homework 3**{: .label .label-blue }[Cleaning and Exploring Data with pandas; SLR](assets/images/Homework3.ipynb.zip)
   : **Due Fri 10/6 11:59**
   <!-- : [Solutions](#) -->
