@@ -46,6 +46,3 @@ Students can access device lending options through the Student Technology Equity
 
 ### Community Standards 
 Beyond the quips that many of us make unintentionally are a host of behaviors that we do not tolerate. We must demonstrate appropriate respect, consideration, and compassion for others, inside and outside of the classroom. Please be friendly and thoughtful; our community draws from a wide spectrum of valuable experiences. As a member of SAAS and a student at Berkeley, we expect respect outlined by Berkeley's [Principles of Community](https://diversity.berkeley.edu/principles-community) and the [Berkeley Campus Code of Student Conduct](https://conduct.berkeley.edu/code-of-conduct/)  
-
-### Extenuating Circumstances
-We recognize that our students come from varied backgrounds and have widely-varying experiences. We will be organizing this system on a case-by-case system, so if you encounter extenuating circumstances at any time in this semster, please do not hesitate to let the a person in leadership know (Nathan, Sakchhi, Carlos, anyone in exec). The sooner that we are made aware, the more options we have available to use to ensure your success in the committee.

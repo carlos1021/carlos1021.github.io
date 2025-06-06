@@ -19,7 +19,7 @@ description: >-
 
 ### Resources
 
-- [SAAS Spring 2023 Data Science Repository](https://www.notion.so/SAAS-Data-Science-Repository-32fb3a865c1d4c56bd45105cfc4e102c?pvs=4)
+- [(Archived) SAAS Spring 2023 Data Science Repository](https://www.notion.so/SAAS-Data-Science-Repository-32fb3a865c1d4c56bd45105cfc4e102c?pvs=4)
 
 - [Glossary Article System](https://www.notion.so/Glossary-173b454542e4455983777bd2fa564289?pvs=4): a couple of written papers ED members wrote last semester.
 - [Data Science Concept Map](https://www.notion.so/Robert-Notes-7a31e549867c4bd8acfccd08a099c3ca?pvs=4): take a look at this excellent resource [Wenhao Pan](wenhao1102@berkeley.edu) and [Robert Lee](robertdylee@berkeley.edu) created last semester! It's a good outline of the different concepts in data science.
